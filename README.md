@@ -1,4 +1,3 @@
-# Index-Inclusion-effect-on-Indias-yield-curve
 # Indian Sovereign Yield Curve Deformation : Following JP Morgan GBI-EM Index Inclusion
 ## Research Question
 Did the mechanical inclusion of Indian G-Secs in the JP Morgan 

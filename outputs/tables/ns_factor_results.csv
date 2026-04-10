@@ -1,0 +1,4 @@
+Factor,FPI Coef,p-value,Observations
+beta0_level,0.0694,0.598,47
+beta1_slope,-0.2588,0.4282,47
+beta2_curvature,-0.212,0.732,47
